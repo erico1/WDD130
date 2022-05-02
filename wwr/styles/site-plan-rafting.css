@@ -42,7 +42,7 @@ img {
   max-width: 300px;
 }
 h1, h2, h3, h4, h5, h6 {
-  font-family: var("Roboto Mono");
+  font-family: var("Roboto Mono, Noto Sans, Raleway");
   color: rgb(82, 82, 169);
 }
 h2 {
@@ -57,7 +57,7 @@ header {
   padding: 1em;
   text-align: center;
   color: rgb(123, 120, 120);
-  background-color: rgb(94, 110, 159) ;
+  background-color:#7b99ae ;
 }
 header > h1, header > h2 {
   color: rgb(247, 236, 236);
