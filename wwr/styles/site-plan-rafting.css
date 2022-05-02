@@ -15,9 +15,9 @@ Fonts are separated by a | */
   --paragraph-font: "Montserrat, Helvetica, sans-serif";
 
   /* these colors below should be chosen from among your palette colors above */
-  --headline-color-on-white: #396E94;  /* headlines on a white background */ 
-  --headline-color-on-color: rgb(206, 198, 198); /* headlines on a colored background */ 
-  --paragraph-color-on-white: #396E94; /* paragraph text on a white background */ 
+  --headline-color-on-white: #1a1c1e;  /* headlines on a white background */ 
+  --headline-color-on-color: rgb(155, 171, 196); /* headlines on a colored background */ 
+  --paragraph-color-on-white: #192126; /* paragraph text on a white background */ 
   --paragraph-color-on-color: rgb(196, 209, 236); /* paragraph text on a colored background */ 
   --paragraph-background-color: #6fadd9  ;
   --nav-link-color: #396E94;
@@ -43,7 +43,7 @@ img {
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: var("Roboto Mono");
-  color: var(--headline-color-on-white);
+  color: var(black);
 }
 h2 {
   text-align: center;
@@ -51,20 +51,20 @@ h2 {
 hr {
   height: 3px;
   margin: 35px 0;
-  background: var(--accent1-color);
+  background: var(#A42212);
 }
 header {
   padding: 1em;
   text-align: center;
-  color: var(--paragraph-color-on-color);
-  background-color: var(--paragraph-background-color);
+  color: var(rgb(246, 241, 238));
+  background-color: var(black );
 }
 header > h1, header > h2 {
-  color: var(--headline-color-on-color);
+  color: var( rgb(207, 58, 58));
 }
 p {
-  font-family: var(--paragraph-font);
-  color: var(--paragraph-color);
+  font-family: var("Roboto Mono");
+  color: var(#192126);
   padding: 1em;
 }
 .colors {
@@ -74,7 +74,7 @@ p {
   text-align: center;
 }
 .colors th {
-  background-color: #6fadd9;
+  background-color: #329fce;
 }
 .colors td{
   width: 25%;
