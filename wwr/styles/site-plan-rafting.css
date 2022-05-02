@@ -8,7 +8,7 @@ Fonts are separated by a | */
   --primary-color: #396E94   ;
   --secondary-color: #E7C24F ;
   --accent1-color: #A42212;
-  --accent2-color: rgb(167, 214, 243);
+  --accent2-color: #DDBEA9;
 
   /* change the values below to your chosen font(s) */
   --heading-font: "Roboto Mono, Noto Sans, Raleway";
@@ -90,7 +90,7 @@ p {
   background-color: #A42212;
 }
 .accent2{
-  background-color: rgb(127, 168, 85);
+  background-color: #DDBEA9;
 }
 p.colored {
   background-color: #7b99ae;
