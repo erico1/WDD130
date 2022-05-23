@@ -56,6 +56,7 @@ nav a:hover{
     text-decoration: none;
     font-size: 18px;
     padding: 15px 30px;
+    margin-top: 50px;
 }
 
 .book:hover, .join:hover{
@@ -68,6 +69,9 @@ nav a:hover{
     background-color: #dae7f1;
     height: 725px; ; 
 }
+.rivers-card, .camping-card, .rapids-card {
+      margin: 200px 0;
+}
 
 .msg{
     background-color: #c6d0d7; 
@@ -78,6 +82,7 @@ nav a:hover{
 footer{
     background-color:  #7b99ae; 
     padding: 25px 50px;
+    margin-top: 200px;
 }
 
 .home-title{
@@ -118,5 +123,6 @@ footer.social img{
 .home-title{
     font-family: var("Roboto Mono");
     font-size: 2em;
+    margin-top: 10px;
 }
 
