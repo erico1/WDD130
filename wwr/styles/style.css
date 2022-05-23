@@ -44,6 +44,7 @@ nav a:hover{
     background-color: #c6d0d7;
     color: blue; 
     text-decoration: none;
+    font-size: 18px;
 }
 
 .book:hover, .join:hover{
@@ -99,5 +100,6 @@ footer a:hover{
 
 .home-title{
     font-family: var("Roboto Mono");
+    font-size: 2em;
 }
 
