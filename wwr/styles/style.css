@@ -118,7 +118,7 @@ footer a{
 footer a:hover{
     color: red;
 }
-footer.social img{
+.social img{
     width: 80px;
     background-color:#7b99ae ;
     padding-top: 15px;
