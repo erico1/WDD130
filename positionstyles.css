@@ -33,11 +33,15 @@ grid-column: 1/3;
 /* Activity 2 styles */ 
 .content2 {
   /* This is the parent of the activity 2 boxes. */
+display:grid;
+Grid-template-columns: repeat(13, 1fr);
+position: relative;
 }
 .red2 {
   width: 100px; 
   height: 100px; 
   background-color: red; 
+  
 } 
 .green2 { 
   width: 100px; 
@@ -133,6 +137,7 @@ grid-column: 1/3;
 /* Activity 6 styles */ 
 .content6 {
   /* This is the parent of the activity 6 boxes. */
+  
 }
 .red6 {
   width: 100px; 
