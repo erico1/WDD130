@@ -15,6 +15,10 @@ nav a{
     padding: 35px;
    
 }
+.home-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;
+}
 .card-img, .mountains {
     width: 100%;
 }
