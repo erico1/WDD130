@@ -37,6 +37,8 @@ h2 {
 
 header{
     background-color: #7b99ae; 
+    display:grid;
+    grid-template-columns: 150px auto;
 }
 
 nav a:hover{
