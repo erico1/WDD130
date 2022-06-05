@@ -111,7 +111,7 @@ nav a:hover{
 }
 
 #background{
-    background-color: #dae7f1;
+    background-color: #5e7e94;
     height: 725px; ; 
     grid-column: 1/11;
     grid-row: 4/9;
@@ -136,7 +136,7 @@ nav a:hover{
 .msg{
     background-color: #c6d0d7; 
     line-height: 1.5em;
-    padding: 35px;
+    padding:35px;
     grid-column: 6/10;
     grid-row: 6/7;
     box-shadow: 5px 5px 10px #6f7364;
