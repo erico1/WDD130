@@ -15,6 +15,9 @@ nav a{
     padding: 35px;
    
 }
+#hero-img{
+    width: 100%;
+}
 .home-grid{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;
