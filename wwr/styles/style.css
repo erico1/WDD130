@@ -51,7 +51,7 @@ nav a{
 #hero2{
     display: grid;
     grid-template-columns: 1fr 3fr 1fr;
-    margin-top: -60px;
+    margin-top: -50px;
    
 }
 #hero-box2 {
