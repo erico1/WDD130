@@ -241,6 +241,7 @@ footer a:hover{
 }
 .page-headline{
     grid-column: 1/4;
+    text-align: center;
 }
 
 @media screen and (max-width: 900px) {
