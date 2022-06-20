@@ -247,10 +247,9 @@ footer a:hover{
 }
 #giffre{
     
-    grid-column: 2/15;\
+    grid-column: 2/15;
     text-align: left;
-
-   
+    padding: 5px;  
 }
 
 #dranse{
