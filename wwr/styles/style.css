@@ -270,9 +270,10 @@ footer a:hover{
     width: 160px;
     height: 160px;
     background: black;
-    border-radius:solid 50%
+    border-radius:50%
 }
 .second-oars img{
+    padding: 20px;
     width: 160px;
     height: 160px;
     background: black;
