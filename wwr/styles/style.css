@@ -257,6 +257,7 @@ footer a:hover{
 }
 
 #dranse{
+    border-left: 6px solid #2f3a42;
    
     grid-column: 2/15;
     padding: 10px;
