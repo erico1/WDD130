@@ -245,6 +245,9 @@ footer a:hover{
     
     padding: 50px;
 }
+#giffre{
+    background-color: skyblue;
+}
 
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
