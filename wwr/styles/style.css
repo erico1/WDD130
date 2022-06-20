@@ -249,7 +249,9 @@ footer a:hover{
     
     grid-column: 2/15;
     text-align: left;
-    padding: 5px;  
+    padding: 5px; 
+    background-color: rgb(135, 206, 235,0.2);
+ 
 }
 
 #dranse{
