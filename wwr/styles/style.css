@@ -275,10 +275,13 @@ footer a:hover{
 }
 .second-oars img{
     padding: 3px;
+    margin-right: 5px;
     width: 160px;
     height: 160px;
     background: black;
     border-radius: 50%
+    margin-right: 5px;
+
 }
 
 
