@@ -252,7 +252,7 @@ footer a:hover{
     padding: 5px; 
     background-color: rgb(135, 206, 235,0.2);
     font-family: var("Roboto Mono");
-    font-size: 5px;
+    font-size: 18px;
  
 }
 
@@ -262,7 +262,7 @@ footer a:hover{
     padding: 10px;
     text-align: left;
     font-family: var("Roboto Mono");
-    font-size: 50px;
+    font-size: 18px;
 }
 .first-oars , .second-oars{
     background-color: rgb(135, 206, 235,0.2);
