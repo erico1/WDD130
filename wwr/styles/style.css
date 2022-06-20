@@ -257,7 +257,7 @@ footer a:hover{
 }
 #dranse{
    
-    grid-column: 2/10;
+    grid-column: 2/15;
 }
 
 @media screen and (max-width: 900px) {
