@@ -247,7 +247,7 @@ footer a:hover{
 }
 #giffre{
     background-color: rgb(135, 206, 235, 0.5);
-    
+    grid-column: 2/10;
    
 }
 #giffre h3{
