@@ -269,7 +269,8 @@ footer a:hover{
 .first-oars img{
     width: 160px;
     height: 160px;
-    border-radius: 50%;
+    background: red;
+    border-radius: 50%
 }
 .second-oars img{
     width: 160px;
