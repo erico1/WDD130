@@ -157,13 +157,13 @@ footer{
 }
 h4{
     color: #66879e;
-    font-family: var("Roboto Mono");
+    font-family: "Roboto Mono";
 }
 
 
 .msg h2{
     color: #66879e;
-    font-family: var("Roboto Mono");
+    font-family: "Roboto Mono";
 }
 .msg p{
     color: rgb(46, 13, 13);
@@ -191,7 +191,7 @@ footer a:hover{
 }
 
 .home-title{
-    font-family: var("Roboto Mono");
+    font-family: "Roboto Mono";
     font-size: 2em;
     margin-top: 10px;
 }
