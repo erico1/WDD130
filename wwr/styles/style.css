@@ -250,14 +250,14 @@ footer a:hover{
     grid-column: 2/15;
     text-align: left;
     padding: 5px; 
-    background-color: rgb(135, 206, 235,0.2);
+    
    
     font-size: 18px;
  
 }
 
 #dranse{
-   background-color: rgb(135, 206, 235,0.2);
+   
     grid-column: 2/15;
     padding: 10px;
     text-align: left;
@@ -265,7 +265,7 @@ footer a:hover{
     font-size: 18px;
 }
 .first-oars , .second-oars{
-    background-color: rgb(135, 206, 235,0.2);
+
    
 }
 
