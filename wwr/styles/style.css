@@ -260,15 +260,12 @@ footer a:hover{
     border-left: 6px solid #2f3a42;
    
     grid-column: 2/15;
-    margin-top: 20px;
+    
     text-align: left;
    
     font-size: 18px;
 }
-.first-oars , .second-oars{
 
-   
-}
 
 
 @media screen and (max-width: 900px) {
