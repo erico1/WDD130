@@ -293,7 +293,8 @@ footer a:hover{
 }
 #button{
     text-align: center;
-   grid-column: 4/7;
+   grid-column: 4/8;
+   text-decoration: solid;
 }
 
 
