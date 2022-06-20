@@ -294,7 +294,11 @@ footer a:hover{
 #button{
     text-align: center;
    grid-column: 4/8;
-  background-color: skyblue;
+ 
+}
+.color{
+    background-color: skyblue;
+    text-decoration: solid;
 }
 
 
