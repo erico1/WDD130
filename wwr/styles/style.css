@@ -247,8 +247,8 @@ footer a:hover{
 }
 #giffre{
     background-color: rgb(135, 206, 235, 0.5);
-    grid-column: 2/10;
-    width: 100%;
+    grid-column: 2/15;
+
    
 }
 #giffre h3{
@@ -256,7 +256,7 @@ footer a:hover{
     
 }
 #dranse{
-    width: 100% ;
+   
     grid-column: 2/10;
 }
 
