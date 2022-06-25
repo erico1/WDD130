@@ -18,6 +18,17 @@ nav a{
 #hero-img{
     width: 100%;
 }
+header{
+    background-color: #7b99ae; 
+    display:grid;
+    grid-template-columns: 150px auto;
+}
+
+nav a:hover{
+    background-color:rgb(48, 28, 28);
+    color: red; 
+
+}
 
 footer{
     background-color:  #7b99ae; 
