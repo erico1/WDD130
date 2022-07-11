@@ -82,6 +82,13 @@ footer a:hover{
 #hero-msg h1,h4{
     color: white; 
 }
+#hero-msg h1,h4{
+    color: white; 
+}
 .logo{
     width: 150px;
+}
+#hero-msg h1{
+    color: white; 
+    font-size: 200%;
 }
