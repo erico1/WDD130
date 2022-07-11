@@ -73,3 +73,15 @@ footer a:hover{
     background-color:#7b99ae ;
     padding-top: 15px;
 }
+
+#hero-msg{
+    padding: 10%;
+    width: 80%;
+    margin-top: -45%;     
+}
+#hero-msg h1,h4{
+    color: white; 
+}
+.logo{
+    width: 150px;
+}
